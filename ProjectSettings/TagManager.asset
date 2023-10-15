@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pic
+  - PicItem
+  - CanonItem
+  - Canon
+  - Checkpoint
+  - MovingCheckpoint
+  - Obstacle
+  - Health
+  - UwuScreen
+  - Plateform
+  - ObstacleRespawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Obstacle
+  - Time Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2747444863
+    locked: 0
+  - name: Background avant avant
+    uniqueID: 3368899241
+    locked: 0
+  - name: BeforeBackground
+    uniqueID: 2417882255
+    locked: 0
+  - name: Ground
+    uniqueID: 1533727591
+    locked: 0
+  - name: Active Objects
+    uniqueID: 1845098883
+    locked: 0
+  - name: Foreground
+    uniqueID: 2612082119
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
