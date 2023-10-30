@@ -12,8 +12,6 @@ Nous avons obtenu le score suivant :
 
 ![image](https://github.com/LeaSerrano/GDLJam-2022/assets/113998552/cb1318f0-988b-4b07-97b7-5df1f53526fb)
 
-Voici le lien de la vidéo du jeu : 
-
 Lien du jeu sur Itch.io : https://byxis.itch.io/friendly-foes
 
 Lien du dépôt git original : https://github.com/thi-christine-nguyen/Game-Jam-Ete-2022
