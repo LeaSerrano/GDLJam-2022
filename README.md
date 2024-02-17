@@ -1,6 +1,6 @@
 # GDLJam 2022
 
-Ce jeu a été réalisé en 3 jours pour la GDL Jam organisée sur Itch.io. Avec mon équipe, nous avons réalisé à 5 en C# sur Unity.
+Ce jeu a été réalisé en 3 jours pour la GDL Jam organisée sur Itch.io. Avec mon équipe, nous avons réalisé un jeu vidéo à 5 en C# sur Unity.
 
 Le but : Réaliser un jeu vidéo sur le thème "Death is not the end... Death is progress.".
 
